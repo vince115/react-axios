@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "id": "32849e2d-023f-4f3f-b047-cc57394beabb",
+      "name": "AAA1",
+      "email": "AAA@gmail.com"
+    },
+    {
+      "id": "94591b68-05ad-4401-b0ce-26913058b579",
+      "name": "BBB2",
+      "email": "bbb@gmail.com"
+    },
+    {
+      "id": "9c2e3223-8eff-462c-babd-0c025bca8ea2",
+      "name": "CCC3",
+      "email": "CCC@gmail.com"
+    },
+    {
+      "id": "306eb52a-35c7-4ced-a2b5-ee407ef84f8f",
+      "name": "DDD4",
+      "email": "DDD@gamil.com"
+    },
+    {
+      "id": "16bfb2c7-f9ca-4211-8a90-c8bc75c11747",
+      "name": "EEE5",
+      "email": "eee@gmail.com"
+    },
+    {
+      "id": "aa8aa345-82c8-4363-a211-6644c50d11e4",
+      "name": "FFF6",
+      "email": "FFF@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "32387fb9-f063-41e0-b8a2-58b34bfb36ad",
+      "productTitle": "IPhone 12",
+      "productPrice": "399",
+      "productSummary": "white 32GB"
+    },
+    {
+      "id": "4919802d-a8e4-4387-bf50-97551f3b2d60",
+      "productTitle": "iPad",
+      "productPrice": "499",
+      "productSummary": "white 128GB"
+    },
+    {
+      "id": "d4c36807-c601-4fd8-949e-5d3252a26c24",
+      "productTitle": "IPhone 11S",
+      "productPrice": "399",
+      "productSummary": "white 32GB"
+    }
+  ]
+}
